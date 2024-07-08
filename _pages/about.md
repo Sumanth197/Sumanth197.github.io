@@ -15,4 +15,5 @@ I am a data scientist and engineer with a focus on explainable AI and machine le
 
 ## My background and history
 I received my Master of Science in Computer Science from George Mason University, specializing in machine learning, NLP, and computer vision, with a 3.92/4.0 GPA. Prior to that, I completed my Bachelor's Degree in Computer Science at the Indian Institute of Information Technology, SriCity, where I actively participated in cricket, cultural events, and the NSS team. My research at the C4I Center Lab during my master's focused on advanced data science topics.
+Feel free to check out my resume and drop me an email if you want to chat with me!
 
