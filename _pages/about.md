@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am Sumanth Pursuing a Master's in Computer Science at [George Mason University](https://www.gmu.edu/). with a strong foundation in data science. Previously, a Data Scientist at [Jio](https://www.jio.com/) AI-CoE with 3 years of expertise in Explainable AI, Machine Learning, NLP, and Deep Learning. Passionate about Computer Science, seeking opportunities to enhance skills through Industrial Research Applications in Artificial Intelligence.
+I am Sumanth Pursuing a Master's in Computer Science at [George Mason University](https://www.gmu.edu/). with a strong foundation in data science. Previously, a Data Scientist at [Jio](https://www.jio.com/) AI-CoE with 3 years of expertise in Explainable AI, Machine Learning, NLP, and Deep Learning. Passionate about Computer Science, seeking opportunities to enhance skills through Industrial Research Applications in Artificial Intelligence.
 
 My work and research
 ======
