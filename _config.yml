@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Sumanth Manduru"
-  pronouns         : # example: "he/him"  
+  pronouns         : "he/him"  
   bio              : "Experienced Data Scientist | Python, LLM & Spark | Master's in CSE (ML)"
   location         : "Virginia US"
   employer         : "George Mason University, Virginia US"
