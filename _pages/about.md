@@ -33,7 +33,9 @@ My Expertise
 
 ## Technical Abilities
 ➤ **Languages** Python, SQL, C/C++, HTML/CSS, Linux
+
 ➤ **Tools** Apache Spark, FastAPI, Flask, AWS (S3, SageMaker), GitHub
+
 ➤ **Frameworks** PyTorch, Transformers, HuggingFace, LangChain, Llama Index, TensorFlow, Keras
 
 
