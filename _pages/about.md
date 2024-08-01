@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/08e346d9-77ed-43b1-bb1c-8a95d4aa245a)![image](https://github.com/user-attachments/assets/6140e6c5-418e-4af8-a007-6dac1eba88d2)![image](https://github.com/user-attachments/assets/2120cda1-b042-47fb-87d5-3be5bb91b529)---
+---
 permalink: /
 title: "🖐 Hello there, I'm Sumanth!"
 excerpt: "About me"
