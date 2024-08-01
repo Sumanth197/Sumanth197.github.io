@@ -6,11 +6,11 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Resume"
-    url: /teaching/    
-    
   - title: "Portfolio"
     url: /portfolio/
+
+  - title: "Resume"
+  url: /files/Sumanth_Resume.pdf  
         
   # - title: "Blog Posts"
   #   url: /year-archive/
