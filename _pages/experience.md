@@ -1,0 +1,14 @@
+---
+title: "Experience"
+permalink: /experience/
+layout: single
+toc: true
+toc_label: "Experience"
+toc_icon: "cogs"  # Choose an appropriate icon from FontAwesome
+---
+
+![Illustration of combining vision and language modalities](/images/RCPPO.png){: .align-right width="300px"}
+
+- **Neural Network(s) Pruning: One and Ensembles** with Prof. [Carlotta Domeniconi](https://www.gmu.edu/profiles/cdomenic).
+  - Pioneered the DropNet algorithm, pruning up to 80% of ResNet and VGG filters while preserving accuracy, demonstrating significant model compression.
+  - Synthesized pruned DNN ensembles using Hierarchical Pruning, boosting accuracy and reducing computational costs by 15% on the CIFAR-10 dataset.
