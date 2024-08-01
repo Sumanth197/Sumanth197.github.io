@@ -16,13 +16,13 @@ redirect_from:
 
 My Expertise
 ======
-I am a data scientist and engineer specializing in explainable AI and machine learning.
+● I am a data scientist and engineer specializing in explainable AI and machine learning.
 
-With a robust foundation in computer science and data analysis, I develop innovative solutions across various domains, including social media popularity prediction, demand planning, and discount optimization.
+● With a robust foundation in computer science and data analysis, I develop innovative solutions across various domains, including social media popularity prediction, demand planning, and discount optimization.
 
-Skilled in both qualitative and quantitative methods, I leverage interdisciplinary knowledge to explore the impact of technology on society.
+● Skilled in both qualitative and quantitative methods, I leverage interdisciplinary knowledge to explore the impact of technology on society.
 
-My focus is on creating interpretable models and developing applications that enhance decision-making processes across different sectors.
+● My focus is on creating interpretable models and developing applications that enhance decision-making processes across different sectors.
 
 ## Education
 🔬 I received my Master of Science in Computer Science from [George Mason University](https://www.gmu.edu/), specializing in machine learning, NLP, and computer vision, with a 3.92/4.0 GPA.
