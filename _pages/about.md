@@ -29,6 +29,13 @@ My Expertise
 
 🕸️ Prior to that, I completed my Bachelor's Degree in Computer Science at the [Indian Institute of Information Technology, SriCity](https://www.iiits.ac.in/).
 
-🧑‍💻 During my master's, my research at the C4I Center Lab focused on advanced data science topics.
+🧑‍💻 During my master's, my research is at the C4I Center Lab focused on advanced data science topics.
+
+## Technical Abilities
+➤ **Languages** Python, SQL, C/C++, HTML/CSS, Linux
+➤ **Tools** Apache Spark, FastAPI, Flask, AWS (S3, SageMaker), GitHub
+➤ **Frameworks** PyTorch, Transformers, HuggingFace, LangChain, Llama Index, TensorFlow, Keras
+
+
 
 
