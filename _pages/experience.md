@@ -26,3 +26,10 @@ toc_icon: "cogs"  # Choose an appropriate icon from FontAwesome
   
    ➤ Conducted a thorough comparative analysis to evaluate robustness of HiPool BERT with GNNs, leveraging techniques like 
   Word Dropping, Jumbling, and Misspelling
+
+## Work Experience
+
+**NLP Research Fellowship - Generative AI**  22nd Century Technologies, Inc.                    May 2023 - August 2023
+⟡ Assembled a keyword extraction and text summarization pipeline using KeyBERT and BART, boosting AI-powered
+chatbot responsiveness and search efficiency by 30%.
+⟡ Integrated Llama Index, FastAPI and S3 Storage, enhancing document processing by 60%.
