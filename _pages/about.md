@@ -1,13 +1,13 @@
----
+![image](https://github.com/user-attachments/assets/08e346d9-77ed-43b1-bb1c-8a95d4aa245a)![image](https://github.com/user-attachments/assets/6140e6c5-418e-4af8-a007-6dac1eba88d2)![image](https://github.com/user-attachments/assets/2120cda1-b042-47fb-87d5-3be5bb91b529)---
 permalink: /
-title: "About"
+title: "🖐 Hello there, I'm Sumanth!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-[!Illustration of combining vision and language modalities](/
+![Illustration of combining vision and language modalities](/
 images/AI_image.jpg){: .align-right width="300px"}
 I am Sumanth Pursuing a Master's in Computer Science at [George Mason University](https://www.gmu.edu/). with a strong foundation in data science. Previously, a Data Scientist at [Jio](https://www.jio.com/) AI-CoE with 3 years of expertise in Explainable AI, Machine Learning, NLP, and Deep Learning. Passionate about Computer Science, seeking opportunities to enhance skills through Industrial Research Applications in Artificial Intelligence.
 
