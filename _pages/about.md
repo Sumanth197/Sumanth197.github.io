@@ -38,6 +38,13 @@ My Expertise
 
 ➤ **Frameworks** PyTorch, Transformers, HuggingFace, LangChain, Llama Index, TensorFlow, Keras
 
+## ACHIEVEMENTS
+⟡ Distinguished Academic Achievement, [George Mason University](https://www.gmu.edu/), May 2024.
+
+⟡ Data Science Research Contributor, PathCheck Foundation (MIT Spin-off), 2021.
+
+⟡ Graduate Teaching Assistant, Department of Computer Science, GMU (August 2023 - May 2024)
+
 
 
 
