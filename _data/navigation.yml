@@ -10,7 +10,7 @@ main:
     url: /portfolio/
 
   - title: "Resume"
-  url: /files/Sumanth_Resume.pdf  
+    url: /files/Sumanth_Resume.pdf  
         
   # - title: "Blog Posts"
   #   url: /year-archive/
