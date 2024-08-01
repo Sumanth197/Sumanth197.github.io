@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "sumanth_manduru.jpg"
   name             : "Sumanth Manduru"
   pronouns         : "he/him"  
   bio              : "Experienced Data Scientist | Python, LLM & Spark | Master's in CSE (ML)"
