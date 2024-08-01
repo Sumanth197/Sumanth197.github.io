@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I'm a first-year PhD student in Computer Science at George Mason University, advised by Prof. Carlotta Domeniconi.
+👨🏻‍💻 I'm a first-year PhD student in Computer Science at [George Mason University](https://www.gmu.edu/), advised by Prof. [Carlotta Domeniconi](https://www.gmu.edu/profiles/cdomenic).
 
 🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
 
