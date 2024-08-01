@@ -1,0 +1,11 @@
+---
+title: "PESTO: Switching Point Based Dynamic and Relative Positional Encoding for Code-Mixed Languages (Student Abstract)"
+collection: publications
+permalink: /publication/2022-PESTO
+excerpt: 'NLP applications for code-mixed (CM) text, prevalent in multilingual societies like India and Mexico, face challenges due to switching points where languages change. These points lack context, making it difficult for statistical systems to model them. This paper presents initial observations on using switching point-based positional encoding for CM language, specifically Hinglish (Hindi-English). While results are only slightly better than the state-of-the-art, positional encoding shows potential for training position-sensitive language models for CM text.'
+date: 2022-06-28
+paperurl: '[https://arxiv.org/abs/2206.05728](https://ojs.aaai.org/index.php/AAAI/article/view/21587)'
+citation: 'PESTO: Switching Point Based Dynamic and Relative Positional Encoding for Code-Mixed Languages (Student Abstract)'
+---
+NLP applications for code-mixed (CM) or mix-lingual text have gained a significant momentum recently, the main reason being the prevalence of language mixing in social media communications in multi-lingual societies like India, Mexico, Europe, parts of USA etc. Word embeddings are basic building blocks of any NLP system today, yet, word embedding for CM languages is an unexplored territory. The major bottleneck for CM word embeddings is switching points, where the language switches. These locations lack in contextually and statistical systems fail to model this phenomena due to high variance in the seen examples. In this paper we present our initial observations on applying switching point based positional encoding techniques for CM language, specifically Hinglish (Hindi - English). Results are only marginally better than SOTA, but it is evident that positional encoding could be an effective way to train position sensitive language models for CM text.
+[Download paper here](https://ojs.aaai.org/index.php/AAAI/article/view/21587).
