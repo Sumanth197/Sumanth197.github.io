@@ -7,9 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Illustration of combining vision and language modalities](/
-images/AI_Image.jpg){: .align-right width="300px"}
-I am Sumanth Pursuing a Master's in Computer Science at [George Mason University](https://www.gmu.edu/). with a strong foundation in data science. Previously, a Data Scientist at [Jio](https://www.jio.com/) AI-CoE with 3 years of expertise in Explainable AI, Machine Learning, NLP, and Deep Learning. Passionate about Computer Science, seeking opportunities to enhance skills through Industrial Research Applications in Artificial Intelligence.
+![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
+👨🏻‍💻 I'm a first-year PhD student in Computer Science at George Mason University, advised by Prof. Carlotta Domeniconi.
+
+🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
+
+📚 I'm currently working towards my Master's Thesis in the field of Neural Network(s) Pruning: One and Ensemblesg.
+
 
 My work and research
 ======
